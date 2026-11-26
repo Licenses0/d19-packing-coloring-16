@@ -1,0 +1,19 @@
+color count minimum_distance starting_point positive_displacement
+1 192 2 0 8
+2 48 4 1 16
+3 48 4 3 16
+4 16 6 29 14
+5 16 6 11 30
+6 12 8 25 32
+7 12 8 15 32
+8 7 10 9 50
+9 7 10 27 50
+10 5 12 75 84
+11 5 12 45 78
+12 4 14 61 96
+13 4 14 31 106
+14 3 16 91 114
+15 3 16 171 112
+16 2 24 105 192
+Negative control: Conflict: color 1 at 0 and 1, distance 1
+SHA-256(word.txt): 6d82b6d7857dab6b0dd8054b563625a809c4fa2c16af542e4a7f9767bd076c51

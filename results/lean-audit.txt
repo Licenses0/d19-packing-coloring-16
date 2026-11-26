@@ -1,0 +1,4 @@
+Lean (version 4.19.0, x86_64-unknown-linux-gnu, commit 6caaee842e94, Release)
+'PackingNine.exists_packing_16' depends on axioms: [propext, Classical.choice, Quot.sound]
+Lean negative control rejected at tableChecked (line 65).
+Rebuild exit 0; axiom whitelist matched; source scan passed.
