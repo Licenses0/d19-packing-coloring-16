@@ -1,4 +1,5 @@
 # A 16-color packing of the integer distance graph D(1, 9)
+[![DOI](https://zenodo.org/badge/github/1473194617.svg)](https://doi.org/10.5281/zenodo.24562886)
 
 Color every integer with a label from 1 to 16. A move changes an integer by 1 or 9 in either direction. Can the colors be arranged so that any two distinct integers of color *c* are more than *c* moves apart? The 384 entries in [word.txt](word.txt), repeated in both directions, give such an arrangement.
 
